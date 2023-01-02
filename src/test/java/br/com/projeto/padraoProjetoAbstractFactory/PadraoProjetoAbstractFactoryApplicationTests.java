@@ -2,7 +2,6 @@ package br.com.projeto.padraoProjetoAbstractFactory;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.aspectj.lang.annotation.Before;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
